@@ -1,0 +1,32 @@
+.header{
+    background-color: #f0fde1;
+    color: #008080;
+}
+
+.test-f0{
+    color: #008080;
+    border-color: #008080;
+}
+
+.border-color{
+    border-color: #008080;
+}
+
+.text-color{
+    color: #008080;
+
+}
+
+.navbar-brand h2 {
+    margin-bottom: 0; /* h2のマージンをゼロに設定 */
+}
+.navbar {
+    padding-bottom: 0; /* navbarのパディングをゼロに設定 */
+}
+.form-inline {
+    margin-top: 0; /* フォームのマージンをゼロに設定 */
+}
+
+.height{
+    height:20%;
+}
